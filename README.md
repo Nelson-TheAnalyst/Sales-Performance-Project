@@ -9,7 +9,7 @@ The dataset used for this analysis was downloaded from kaggle website. The datas
 #Tech Stack
 
 The analysis was conducted using SQL and Power BI
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"></picture>
+(https://github.com/Nelson-TheAnalyst/Sales-Performance-Project/blob/f46f8c48d22f153c759eae29010131200f87b674/pro1.png)
 
 
 # Dashboard and Analysis
