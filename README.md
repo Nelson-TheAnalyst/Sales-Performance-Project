@@ -9,18 +9,29 @@ The dataset used for this analysis was downloaded from kaggle website. The datas
 #Tech Stack
 
 The analysis was conducted using SQL and Power BI
-(https://github.com/Nelson-TheAnalyst/Sales-Performance-Project/blob/f46f8c48d22f153c759eae29010131200f87b674/pro1.png)
+>creating DATABASE and EDA
+
+
+  <img alt = "CREATING DATABASE AND EDA"  src= "https://user-images.githubusercontent.com/115374063/232208405-ad167249-75e3-40a7-b442-e8f42dd754bb.png">
+
+ <img alt = "CREATING DATABASE AND EDA"  src="https://user-images.githubusercontent.com/115374063/232208412-d2c17739-a4d7-4b54-afc0-cb136b6ebccc.png">
+
+
 
 
 # Dashboard and Analysis
 
 I designed a dashboard to understand Tesla sales trend. This dashboard is effective at displaying the sales trend at Tesla, allowing the stakeholders to understand the data and make informed decisions. The dashboard could increase revenue by at least 7% in the next quarter.
+<img src="https://user-images.githubusercontent.com/115374063/232208450-a5468ea7-9537-44a1-b53c-209ab9c87940.png">
 
 # Insight
 1. Out of 924 car orders, the 75 RWD version had the highest order with 307 orders, which was a whopping 468.52% higher than the least popular version, the 90D AWD, which only had 54 orders.
 2. The Model S is more popular and profitable than the Model X, with $11M in profit
 3. The US market generated the highest revenue, with a total of $58 million, making up 83.70% of the overall revenue.
 4. The US market generated the highest revenue, with a total of $58 million, making up 83.70% of the overall revenue.
+
+#Recommendation
+<img src = "https://user-images.githubusercontent.com/115374063/230226688-b884fa93-ce45-4535-841a-94db491d1e4c.png">
 
 
 1. Conduct market research to identify the reasons why product is not selling well in Germany and Australia. This will help you to understand the local market dynamics, customer preferences, and competition. Then, customize your product to meet the specific needs and preferences of the customers in the other two countries.
